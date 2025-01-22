@@ -19,7 +19,6 @@
 
 - ⚡ Fun fact **I think I am funny 😄.**
 
-
 ## 🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
